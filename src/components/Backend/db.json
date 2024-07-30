@@ -1,0 +1,77 @@
+{
+  "students": [
+    {
+      "fname": "tejal",
+      "lname": "shinde",
+      "mothername": "tejalmammi",
+      "fathername": "lalaso",
+      "address": "shindevadi",
+      "gender": "female",
+      "state": "MAHARASHTRA",
+      "city": "MUMBAI",
+      "dob": "24 April 2002",
+      "pincode": "415523",
+      "course": "Data science(python)",
+      "email": "tejalshinde@gmail.com",
+      "id": "863a"
+    },
+    {
+      "id": "5291",
+      "fname": "ashu",
+      "lname": "bhagat",
+      "mothername": "manisha",
+      "fathername": "mahendra",
+      "address": "apti",
+      "gender": "gender",
+      "state": "MAHARASHTRA",
+      "city": "DEHLI",
+      "dob": "12 dec 2002",
+      "pincode": "445303",
+      "course": "Bio-Technology",
+      "email": "ashwini@gmail.com"
+    },
+    {
+      "fname": "karuna",
+      "lname": "desai",
+      "mothername": "chandrama",
+      "fathername": "rajendra",
+      "address": "kolhapur",
+      "gender": "female",
+      "dob": "15 july 2001",
+      "pincode": "543423",
+      "course": "computer",
+      "email": "karuna@gmail.com",
+      "id": "f20b"
+    },
+    {
+      "id": "f756",
+      "fname": "mohini",
+      "lname": "mane",
+      "mothername": "shital",
+      "fathername": "kantaram",
+      "address": "pune",
+      "gender": "female",
+      "state": "MAHARASHTRA",
+      "city": "PUNE",
+      "dob": "6 march 2004",
+      "pincode": "432312",
+      "course": "python",
+      "email": "mohini@gmail.com"
+    },
+    {
+      "fname": "Kirti",
+      "lname": "Aage",
+      "mothername": "Varsha",
+      "fathername": "Dattatray",
+      "address": "Beed",
+      "gender": "female",
+      "state": "GOA",
+      "city": "MUMBAI",
+      "dob": "22/11/2002",
+      "pincode": "431131",
+      "course": "java full stack",
+      "email": "kirtiaage@gmail.com",
+      "id": "7656"
+    }
+  ]
+}
